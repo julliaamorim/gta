@@ -8,7 +8,7 @@ Como uma forma de expressar minha admiração pela franquia **GTA (Grand Theft A
 
 * HTML5
 * CSS3
-* JavaScript (básico, se aplicável)
+* JavaScript 
 
 ## 🎯 Objetivo
 
